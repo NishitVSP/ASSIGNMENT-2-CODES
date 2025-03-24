@@ -1,0 +1,2 @@
+[bandit]
+exclude = *.yml,*.json,*.md,*.txt,*.yaml,*.sql,Dockerfile,*.toml,*.sh,*.git,*.dockerfile,*.png,*.csv,*.tsv,*.model,.gitignore,.gitattributes,*.cff,LICENSE,Makefile,postBuild,*.lock,*.template,*.rst,.gitkeep,*.png,*.jpg,*.svg,*.pdf,*.js,*.ico,*.bmp,*.scss,*.in,*.ini,*.html,*.bat,*.pyx,*.pxd,*.build,.coveragerc,.git-blame-ignore-revs,.mailmap,*.parquet,COPYING,*.cfg
